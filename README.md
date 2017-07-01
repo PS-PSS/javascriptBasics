@@ -2,8 +2,6 @@ General Goal: Learn Javascript with the homies
 
 Specific Goal: Figure out what level everyone is at first
 
-Hi All,
-
 Let's start with this activity, pulled from one of the lesson plans I have access to as a TA at UCI's coding bootcamp:
 
 Instructions:
